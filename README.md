@@ -36,6 +36,13 @@ I am a **Junior Developer** at **ITS Academy Apulia Digital Maker**. I'm special
 
 ---
 
+### 🌍 Languages
+- **Italian:** Native 🇮🇹
+- **English:** B2 (Cambridge First) 🇬🇧
+- **French & German:** Elementary 🇫🇷 🇩🇪
+
+---
+
 ### 📫 Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/lorenzocaputodev" target="_blank">
