@@ -1,10 +1,10 @@
-# Hi, I'm Lorenzo Caputo! 🚀
+# Hi there, I'm Lorenzo Caputo! 🚀
 
 I am a **Junior Developer** currently undergoing an intensive 1800-hour training program at **ITS Academy Apulia Digital Maker**. I combine a strong logical foundation with years of experience in problem-solving and team collaboration.
 
 ---
 
-### 🛠 Tech Stack & Skills
+### 🛠 Tech Stack & Tools
 
 **Programming & Databases**
 <p align="left">
@@ -24,16 +24,16 @@ I am a **Junior Developer** currently undergoing an intensive 1800-hour training
 ---
 
 ### 🤖 Specialized Experience
-- [cite_start]**Software Dev:** Focused on Object-Oriented Programming (OOP) and Database Design .
-- [cite_start]**Hardware & Robotics:** Advanced diagnostics, 3D Printing, and C++ hardware control systems [cite: 31, 46-47].
-- [cite_start]**Soft Skills:** High-pressure problem solving and multilingual communication [cite: 9, 89-90].
+- **Software Dev:** Focused on Object-Oriented Programming (OOP) and Database Design.
+- **Hardware & Robotics:** Advanced diagnostics, 3D Printing, and C++ hardware control systems.
+- **Soft Skills:** High-pressure problem solving and multilingual communication.
 
 ---
 
 ### 🌍 Languages
-- [cite_start]**English:** B2 (Cambridge First) [cite: 17, 41]
+- **English:** B2 (Cambridge First)
 - **Italian:** Native
-- [cite_start]**French & German:** Elementary [cite: 42-43]
+- **French & German:** Elementary
 
 ---
 
