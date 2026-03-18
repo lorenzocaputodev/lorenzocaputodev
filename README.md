@@ -1,4 +1,4 @@
-# Hi there, I'm Lorenzo Caputo! 🚀
+# Hi there, I'm Lorenzo! 🚀
 
 I am a **Junior Developer** currently undergoing an intensive 1800-hour training program at **ITS Academy Apulia Digital Maker**. I combine a strong logical foundation with years of experience in problem-solving and team collaboration.
 
@@ -31,8 +31,8 @@ I am a **Junior Developer** currently undergoing an intensive 1800-hour training
 ---
 
 ### 🌍 Languages
-- **English:** B2 (Cambridge First)
 - **Italian:** Native
+- **English:** B2 (Cambridge First)
 - **French & German:** Elementary
 
 ---
