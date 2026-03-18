@@ -1,4 +1,4 @@
-# Hi there, I'm Lorenzo Caputo! 🚀
+# Hi there, I'm Lorenzo! 🚀
 
 I am a **Junior Developer** at **ITS Academy Apulia Digital Maker**. I'm specializing in high-performance software development, combining backend logic with modern data architectures.
 
@@ -11,6 +11,7 @@ I am a **Junior Developer** at **ITS Academy Apulia Digital Maker**. I'm special
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Microservices-FF6600?style=for-the-badge&logo=spring&logoColor=white" alt="Microservices" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
 </p>
 
 **Data & Databases**
@@ -40,6 +41,11 @@ I am a **Junior Developer** at **ITS Academy Apulia Digital Maker**. I'm special
 - **Italian:** Native 🇮🇹
 - **English:** B2 (Cambridge First) 🇬🇧
 - **French & German:** Elementary 🇫🇷 🇩🇪
+
+---
+
+### ⚡ Quick Quote
+> "Talk is cheap. Show me the code." — *Linus Torvalds*
 
 ---
 
