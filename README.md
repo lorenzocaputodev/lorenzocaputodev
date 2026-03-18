@@ -1,38 +1,41 @@
-# Hi there, I'm Lorenzo Caputo! 👋
+# Hi, I'm Lorenzo Caputo! 🚀
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=lorenzocaputodev&label=Profile%20views&color=0e75b6&style=flat" alt="lorenzocaputodev" />
-</p>
-
-[cite_start]I am a **Junior Developer** currently undergoing an intensive 1800-hour training program at **ITS Academy Apulia Digital Maker**[cite: 12, 13, 14]. [cite_start]I combine a strong logical foundation with years of experience in problem-solving and team collaboration[cite: 9, 81, 89].
+I am a **Junior Developer** currently undergoing an intensive 1800-hour training program at **ITS Academy Apulia Digital Maker**. I combine a strong logical foundation with years of experience in problem-solving and team collaboration.
 
 ---
 
-### 🛠 Tech Stack & Tools
+### 🛠 Tech Stack & Skills
 
-**Programming Languages**
+**Programming & Databases**
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
 </p>
 
-**Expertise**
-- [cite_start]🎯 **Focus:** Object-Oriented Programming (OOP), Database Design, and Web Analytics[cite: 14, 15, 51].
-- [cite_start]🤖 **Hardware:** Robotics, 3D Printing, and Advanced Hardware Repair[cite: 31, 44, 46].
+**Tools & Technologies**
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Analytics" />
+</p>
 
 ---
 
-### 📊 GitHub Statistics
+### 🤖 Specialized Experience
+- [cite_start]**Software Dev:** Focused on Object-Oriented Programming (OOP) and Database Design .
+- [cite_start]**Hardware & Robotics:** Advanced diagnostics, 3D Printing, and C++ hardware control systems [cite: 31, 46-47].
+- [cite_start]**Soft Skills:** High-pressure problem solving and multilingual communication [cite: 9, 89-90].
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lorenzocaputodev&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Lorenzo's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzocaputodev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+---
+
+### 🌍 Languages
+- [cite_start]**English:** B2 (Cambridge First) [cite: 17, 41]
+- **Italian:** Native
+- [cite_start]**French & German:** Elementary [cite: 42-43]
 
 ---
 
 ### 📫 Connect with me
-[cite_start][![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzocaputodev) [cite: 7, 65]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzocaputodev)
