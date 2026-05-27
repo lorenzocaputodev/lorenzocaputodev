@@ -37,8 +37,6 @@ What matters most to me is not only making something work, but learning how to d
 ### Data & Infrastructure
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="NoSQL" />
-  <img src="https://img.shields.io/badge/Cloud-0089D1?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Cloud" />
 </p>
 
 ### Concepts & Tools
@@ -50,10 +48,10 @@ What matters most to me is not only making something work, but learning how to d
 
 ## 🤖 Specialized Focus
 
-- **Full-Stack Development:** Intensive training in Java/C# OOP, Microservices, and UX/UI design.
-- **Quality & Security:** Implementing Test Automation (JUnit) and studying Cybersecurity fundamentals.
-- **Advanced Tech:** Hardware support, 3D Printing, and C++ robotics control systems.
-- **Soft Skills:** High-pressure problem solving and English B2 communication.
+- **Full-Stack Development:** Solid foundation in OOP, microservices architecture, and user-centric UI/UX design.
+- **Quality & Security:** Implementing automated testing frameworks and applying core cybersecurity principles.
+- **Advanced Tech:** Hardware-software integration, low-level robotics programming, and 3D printing.
+- **Soft Skills:** Agile problem-solving in fast-paced environments and B2 English communication.
 
 ---
 
