@@ -4,18 +4,18 @@
 
 I'm a **junior developer in training** at **ITS Academy Apulia Digital Maker**.
 
-I build real projects and take them all the way: design, code, review, release. Two Android apps and two websites are already live.  
-I use AI tools every day as part of how I work: to explore ideas, review code and debug faster. Every change still goes through my own judgement before it ships.
+I build real projects and take them all the way: design, code, review, release. **Two Android apps and two websites** are already live.  
+I use **AI tools every day** to explore ideas, review code and debug faster, and every change still goes through my own judgement before it ships.
 
 <img src="assets/divider.svg" alt="" width="100%" height="4" />
 
 ## ⚡ Featured Projects
 - [**My Tracking App**](https://github.com/lorenzocaputodev/my_tracking_app) · [APK](https://github.com/lorenzocaputodev/my_tracking_app/releases/latest)  
-  My first published app: a Flutter app for Android to track daily usage, with statistics, goals and badges, a home-screen widget and data kept on the phone.
+  My **first published app**: a Flutter app for Android to track daily habits and consumption, with statistics, goals and badges, a home-screen widget and data kept on the phone.
 - [**Allergy Radar**](https://github.com/lorenzocaputodev/allergy_radar) · [APK](https://github.com/lorenzocaputodev/allergy_radar/releases/latest)  
-  A Flutter app for Android with pollen levels for your area across Italy, a symptom diary and alerts, using Open-Meteo and ISPRA POLLnet data.
+  A Flutter app for Android with **local pollen levels across Italy**, a symptom diary and alerts, based on Open-Meteo and ISPRA POLLnet data.
 - [**Caputo Gres Design**](https://caputogresdesign.pages.dev/) ([source](https://github.com/lorenzocaputodev/caputogresdesign))  
-  Showcase website for a workshop making custom porcelain stoneware sinks, built with Vite and GSAP, with a 3D sink you can configure.
+  Showcase website for a workshop making custom porcelain stoneware sinks, built with Vite and GSAP, with a **3D sink you can configure**.
 - [**Portfolio**](https://lorenzocaputo.is-a.dev/en/) ([source](https://github.com/lorenzocaputodev/lorenzo-caputo-portfolio))  
   My personal website, built with React and Vite, in Italian and English.
 
@@ -66,7 +66,7 @@ I use AI tools every day as part of how I work: to explore ideas, review code an
 ## 🧭 What I'm working on
 
 - **Full-stack, step by step:** OOP in Java, REST APIs with Spring and microservices basics on the backend; React and Flutter on the frontend.
-- **AI-assisted development:** daily use of AI agents from the CLI, mainly Claude Code, plus Codex CLI and Antigravity, for code review, debugging, tests and docs. I know how to give them context, check their output and keep the final call. Learning to integrate AI into applications.
+- **AI-assisted development:** I work with AI agents from the CLI every day, mainly **Claude Code**, plus Codex CLI and Antigravity, for code review, debugging, tests and docs. I give them the right context and check everything they produce. Next step: integrating AI into my own apps.
 - **Testing & security basics:** unit tests with JUnit, secure-coding fundamentals and GDPR basics from my ITS course.
 - **Hardware:** years of PC repair and custom builds, plus a robotics, 3D printing and laser cutting course (C/C++).
 - **From customer service to code:** years of front-of-house work taught me to stay calm under pressure, communicate clearly and work in a team.
