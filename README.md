@@ -46,6 +46,7 @@ I use **AI tools every day** to explore ideas, review code and debug faster, and
   <img src="assets/badges/sql-nosql.svg" alt="SQL / NoSQL" height="28" />
   <img src="assets/badges/git.svg" alt="Git" height="28" />
   <img src="assets/badges/docker.svg" alt="Docker" height="28" />
+  <img src="assets/badges/github-actions.svg" alt="GitHub Actions" height="28" />
 </p>
 
 ### AI-Assisted Development
