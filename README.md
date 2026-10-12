@@ -17,7 +17,7 @@ I use **AI tools every day** to explore ideas, review code and debug faster, and
 - [**Caputo Gres Design**](https://caputogresdesign.pages.dev/) ([source](https://github.com/lorenzocaputodev/caputogresdesign))  
   Showcase website for a workshop making custom porcelain stoneware sinks, built with Vite and GSAP, with a **3D sink you can configure**.
 - [**Portfolio**](https://lorenzocaputo.is-a.dev/en/) ([source](https://github.com/lorenzocaputodev/lorenzo-caputo-portfolio))  
-  My personal website, built with React and Vite, in Italian and English.
+  My personal website, built with Preact (React-compatible) and Vite, in Italian and English.
 
 <img src="assets/divider.svg" alt="" width="100%" height="4" />
 
