@@ -11,7 +11,7 @@ I use **AI tools every day** to explore ideas, review code and debug faster, and
 
 ## ⚡ Featured Projects
 - [**My Tracking App**](https://github.com/lorenzocaputodev/my_tracking_app) · [APK](https://github.com/lorenzocaputodev/my_tracking_app/releases/latest)  
-  My **first published app**: a Flutter app for Android to track daily habits and consumption, with statistics, goals and badges, a home-screen widget and data kept on the phone.
+  My **first published app**: a Flutter app for Android to track daily habits and consumption, with statistics, goals and badges, a home-screen widget and data kept on the phone, **in English and Italian**.
 - [**Allergy Radar**](https://github.com/lorenzocaputodev/allergy_radar) · [APK](https://github.com/lorenzocaputodev/allergy_radar/releases/latest)  
   A Flutter app for Android with **local pollen levels across Italy**, a symptom diary and alerts, based on Open-Meteo and ISPRA POLLnet data.
 - [**Caputo Gres Design**](https://caputogresdesign.pages.dev/) ([source](https://github.com/lorenzocaputodev/caputogresdesign))  
