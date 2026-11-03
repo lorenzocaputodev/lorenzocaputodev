@@ -2,9 +2,9 @@
 
 <img src="assets/typing.svg" alt="$ git commit -m &quot;real, well-finished projects&quot;" height="32" />
 
-I'm a **junior developer in training** at **ITS Academy Apulia Digital Maker**.
+I'm a **junior full stack developer in training** at **ITS Academy Apulia Digital Maker**.
 
-I build real projects and take them all the way: design, code, review, release. **Two Android apps and two websites** are already live.  
+I build real projects and take them all the way: design, code, review, release. **Two Android apps and two websites** are already live, plus a web game I'm building for my group of friends.  
 I use **AI tools every day** to explore ideas, review code and debug faster, and every change still goes through my own judgement before it ships.
 
 <img src="assets/divider.svg" alt="" width="100%" height="4" />
@@ -18,6 +18,8 @@ I use **AI tools every day** to explore ideas, review code and debug faster, and
   Showcase website for a workshop making custom porcelain stoneware sinks, built with Vite and GSAP, with a **3D sink you can configure**.
 - [**Portfolio**](https://lorenzocaputo.is-a.dev/en/) ([source](https://github.com/lorenzocaputodev/lorenzo-caputo-portfolio))  
   My personal website, built with Preact (React-compatible) and Vite, in Italian and English.
+- **Mhèna meh!** (private)  
+  A chapter-based web game set in Salento, built for my group of friends, with skills, costumes, an online leaderboard and three difficulty levels.
 
 <img src="assets/divider.svg" alt="" width="100%" height="4" />
 
@@ -69,8 +71,8 @@ I use **AI tools every day** to explore ideas, review code and debug faster, and
 - **Full-stack, step by step:** OOP in Java, REST APIs with Spring and microservices basics on the backend; React and Flutter on the frontend.
 - **AI-assisted development:** I work with AI agents from the CLI every day, mainly **Claude Code**, plus Codex CLI and Antigravity, for code review, debugging, tests and docs. I give them the right context and check everything they produce. Next step: integrating AI into my own apps.
 - **Testing & security basics:** unit tests with JUnit, secure-coding fundamentals and GDPR basics from my ITS course.
-- **Hardware:** years of PC repair and custom builds, plus a robotics, 3D printing and laser cutting course (C/C++).
-- **From customer service to code:** years of front-of-house work taught me to stay calm under pressure, communicate clearly and work in a team.
+- **Hardware:** PC repair and custom builds for friends and family since I was a kid, plus a robotics, 3D printing and laser cutting course (C/C++).
+- **From customer service to code:** seasonal front-of-house jobs taught me to stay calm under pressure, communicate clearly and work in a team.
 
 ## 🌍 Languages
 🇮🇹 Italian (native) · 🇬🇧 English B2 (Cambridge First) · 🇫🇷 🇩🇪 French & German (elementary)
