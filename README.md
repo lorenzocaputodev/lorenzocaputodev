@@ -4,7 +4,7 @@
 
 I'm a **junior full stack developer in training** at **ITS Academy Apulia Digital Maker**.
 
-I build real projects and take them all the way: design, code, review, release. **Two Android apps and two websites** are already live, plus a web game I'm building for my group of friends.  
+I build real projects and take them all the way: design, code, review, release. **Android apps, websites and a web game** are already live or in use.  
 I use **AI tools every day** to explore ideas, review code and debug faster, and every change still goes through my own judgement before it ships.
 
 <img src="assets/divider.svg" alt="" width="100%" height="4" />
@@ -16,10 +16,14 @@ I use **AI tools every day** to explore ideas, review code and debug faster, and
   A Flutter app for Android with **local pollen levels across Italy**, a symptom diary and alerts, based on Open-Meteo and ISPRA POLLnet data.
 - [**Caputo Gres Design**](https://caputogresdesign.pages.dev/) ([source](https://github.com/lorenzocaputodev/caputogresdesign))  
   Showcase website for a workshop making custom porcelain stoneware sinks, built with Vite and GSAP, with a **3D sink you can configure**.
-- [**Portfolio**](https://lorenzocaputo.is-a.dev/en/) ([source](https://github.com/lorenzocaputodev/lorenzo-caputo-portfolio))  
-  My personal website, built with Preact (React-compatible) and Vite, in Italian and English.
+- **Sincro** (private)  
+  An Android app for couples built with Flutter and Supabase: a daily game for two where each partner makes a choice and the Collision reveals both once both have answered, with encrypted notes and a home-screen widget.
 - **Mhèna meh!** (private)  
   A chapter-based web game set in Salento, built for my group of friends, with skills, costumes, an online leaderboard and three difficulty levels.
+- [**Portfolio**](https://lorenzocaputo.is-a.dev/en/) ([source](https://github.com/lorenzocaputodev/lorenzo-caputo-portfolio))  
+  My personal website, built with Preact (React-compatible) and Vite, in Italian and English.
+- **Windows tools**: [Windows VM Advisor](https://github.com/lorenzocaputodev/Windows-VM-Advisor) · [Windows Log Toolkit](https://github.com/lorenzocaputodev/windows-log-toolkit) · [Remove VC++ Redist](https://github.com/lorenzocaputodev/remove-vcredist) · [Java Uninstaller](https://github.com/lorenzocaputodev/java-uninstaller) · [Fix Lightshot Fn](https://github.com/lorenzocaputodev/fix-lightshot-fn)  
+  Small PowerShell and batch tools born from real problems, on my own PCs and on those of friends and family.
 
 <img src="assets/divider.svg" alt="" width="100%" height="4" />
 
