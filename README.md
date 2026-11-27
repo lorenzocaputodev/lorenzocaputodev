@@ -10,6 +10,8 @@ I use **AI tools every day** to explore ideas, review code and debug faster, and
 <img src="assets/divider.svg" alt="" width="100%" height="4" />
 
 ## ⚡ Featured Projects
+- [**Portfolio**](https://lorenzocaputo.is-a.dev/en/) ([source](https://github.com/lorenzocaputodev/lorenzo-caputo-portfolio))  
+  My personal website, built with Preact (React-compatible) and Vite, in Italian and English.
 - [**My Tracking App**](https://github.com/lorenzocaputodev/my_tracking_app) · [APK](https://github.com/lorenzocaputodev/my_tracking_app/releases/latest)  
   My **first published app**: a Flutter app for Android to track daily habits and consumption, with statistics, goals and badges, a home-screen widget and data kept on the phone, **in English and Italian**.
 - [**Allergy Radar**](https://github.com/lorenzocaputodev/allergy_radar) · [APK](https://github.com/lorenzocaputodev/allergy_radar/releases/latest)  
@@ -20,8 +22,6 @@ I use **AI tools every day** to explore ideas, review code and debug faster, and
   An Android app for couples built with Flutter and Supabase: a daily game for two where each partner makes a choice and the Collision reveals both once both have answered, with encrypted notes and a home-screen widget.
 - **Mhèna meh!** (private)  
   A chapter-based web game set in Salento, built for my group of friends, with skills, costumes, an online leaderboard and three difficulty levels.
-- [**Portfolio**](https://lorenzocaputo.is-a.dev/en/) ([source](https://github.com/lorenzocaputodev/lorenzo-caputo-portfolio))  
-  My personal website, built with Preact (React-compatible) and Vite, in Italian and English.
 - **Windows tools**: [Windows VM Advisor](https://github.com/lorenzocaputodev/Windows-VM-Advisor) · [Windows Log Toolkit](https://github.com/lorenzocaputodev/windows-log-toolkit) · [Remove VC++ Redist](https://github.com/lorenzocaputodev/remove-vcredist) · [Java Uninstaller](https://github.com/lorenzocaputodev/java-uninstaller) · [Fix Lightshot Fn](https://github.com/lorenzocaputodev/fix-lightshot-fn)  
   Small PowerShell and batch tools born from real problems, on my own PCs and on those of friends and family.
 
