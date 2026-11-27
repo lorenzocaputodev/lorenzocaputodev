@@ -19,11 +19,11 @@ I use **AI tools every day** to explore ideas, review code and debug faster, and
 - [**Caputo Gres Design**](https://caputogresdesign.pages.dev/) ([source](https://github.com/lorenzocaputodev/caputogresdesign))  
   Showcase website for a workshop making custom porcelain stoneware sinks, built with Vite and GSAP, with a **3D sink you can configure**.
 - **Sincro** (private)  
-  An Android app for couples built with Flutter and Supabase: a daily game for two where each partner makes a choice and the Collision reveals both once both have answered, with encrypted notes and a home-screen widget.
+  An Android app for couples built with Flutter and Supabase: a daily game for two where each partner makes a choice and the Collision reveals the two choices once both have answered, with encrypted notes and a home-screen widget.
 - **Mhèna meh!** (private)  
   A chapter-based web game set in Salento, built for my group of friends, with skills, costumes, an online leaderboard and three difficulty levels.
 - **Windows tools**: [Windows VM Advisor](https://github.com/lorenzocaputodev/Windows-VM-Advisor) · [Windows Log Toolkit](https://github.com/lorenzocaputodev/windows-log-toolkit) · [Remove VC++ Redist](https://github.com/lorenzocaputodev/remove-vcredist) · [Java Uninstaller](https://github.com/lorenzocaputodev/java-uninstaller) · [Fix Lightshot Fn](https://github.com/lorenzocaputodev/fix-lightshot-fn)  
-  Small PowerShell and batch tools born from real problems, on my own PCs and on those of friends and family.
+  Small PowerShell and batch tools I wrote to fix real problems on my own PCs and those of friends and family.
 
 <img src="assets/divider.svg" alt="" width="100%" height="4" />
 
